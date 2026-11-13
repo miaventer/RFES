@@ -6,7 +6,7 @@ The RFES algorithm proceeds as follows:
 
 s and Accuracymax are initialised to 0.
 
-The feature importance for each gene across all GECs in datatrain is obtained using the varImp function from the caret R package, and the maximum variable importance, as Mean Decrease in Accuracy (MDA) for each gene (j) across the GECs (m) is recorded. 
+The feature importance for each gene across all Groups in datatrain is obtained using the varImp function from the caret R package, and the maximum variable importance, as Mean Decrease in Accuracy (MDA) for each gene (j) across the Groups (m) is recorded. 
 〖MDA〗_(j,max)=max⁡(〖MDA〗_(j,1),〖MDA〗_(j,2),…,〖MDA〗_(j,m) )
 
 The first quantile (Q1) is found from the maximum VI across all features, where p is the total number of features. 
