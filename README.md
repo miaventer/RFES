@@ -22,5 +22,5 @@ If Accuracytest (model accuracy on datatest) is greater than Accuracy max then A
 
 Repeat the procedure rpt times and record the most accurate model for each repeat.
 
-Published in Unsupervised machine learning identifies early stage breast cancer subclasses from aberrant glycogene expression and informs personalised drug treatment (https://doi.org/10.21203/rs.3.rs-10155568/v1)
+Published in _Unsupervised machine learning identifies early stage breast cancer subclasses from aberrant glycogene expression and informs personalised drug treatment_ (https://doi.org/10.21203/rs.3.rs-10155568/v1)
 
